@@ -1,0 +1,44 @@
+# =========================
+# Datasets
+# =========================
+Data/
+Data-class/
+Data-regression/
+ag_news_dataset/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Python cache / tools
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
