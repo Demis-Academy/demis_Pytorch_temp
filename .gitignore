@@ -5,6 +5,7 @@ Data/
 Data-class/
 Data-regression/
 ag_news_dataset/
+HAR_Datasets/
 
 # =========================
 # Python
